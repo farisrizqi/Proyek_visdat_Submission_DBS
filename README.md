@@ -32,3 +32,8 @@ streamlit run dashboardVisDat_Proyek.py
 or in subfolder:
 streamlit run dashboard/dashboardVisDat_Proyek.py
 ```
+
+## Deployment Streamlit
+```
+[VisDat Submission DBS - Streamlit](https://visdatsubmissiondbs-farisrizqiawan.streamlit.app/)
+```
